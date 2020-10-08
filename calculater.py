@@ -1,6 +1,6 @@
 import math
 
-pi = 3.1415926
+pi = math.pi
 D = 1.12
 sumforce = 0.0
 R = float(input("吹口半徑:"))
